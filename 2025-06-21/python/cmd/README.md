@@ -1,4 +1,3 @@
-<p align="left">0x01</p>
 <p align="right">
     <strong>📨 </strong> <a href="mailto:kipchumba.softwaredev@gmail.com">kipchumba.softwaredev@gmail.com</a><br>
     <a href="https://x.com/atmosbrief" target="_blank">
