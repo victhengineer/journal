@@ -5,8 +5,7 @@
     </a><br>
     <strong>📅 </strong> June 21, 2025
 </p>
-<p align="left"><small>Journal 0x01</small></p>
-
+<p align="left"><small>0x01</small></p>
 ----
 
 cmd
