@@ -6,6 +6,8 @@
     <strong>📅 </strong> June 21, 2025
 </p>
 <p align="left">journal 0x01
+----
+
 cmd
 ---
 Cmd provides a support for line-oriented command interpretor
