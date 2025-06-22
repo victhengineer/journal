@@ -3,7 +3,7 @@
     <strong>📧 Email:</strong> kipchumba.softwaredev@gmailcom<br>
     <a href="https://x.com/atmosbrief" target="_blank">
         <img src="https://img.shields.io/twitter/follow/atmosbrief?style=social" alt="Follow @atmosbrief" />
-    </a>
+    </a><br>
     <strong>📅 Date:</strong> June 21, 2025
 </p>
 
