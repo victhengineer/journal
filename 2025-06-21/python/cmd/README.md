@@ -5,9 +5,9 @@
     </a><br>
     <strong>📅 </strong> June 21, 2025
 </p>
-<p align="left"><small>0x01</small></p>
-----
-
-cmd
+<p align="left">0x01</p>
 ---
+
+# cmd
+
 Cmd provides a support for line-oriented command interpretor
