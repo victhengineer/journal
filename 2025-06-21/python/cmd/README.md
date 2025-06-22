@@ -3,9 +3,9 @@
     <a href="https://x.com/atmosbrief" target="_blank">
         <img src="https://img.shields.io/twitter/follow/victhengineer?style=social" alt="Follow @victhengineer" />
     </a><br>
+    0x01 <br>
     <strong>📅 </strong> June 21, 2025
 </p>
-<p align="left">0x01</p>
 
 ---
 
