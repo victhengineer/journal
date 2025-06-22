@@ -1,7 +1,7 @@
-<p align="left">Journal #1</p>
+<p align="left">0x01</p>
 <p align="right">
-    <strong>📧 Email:</strong> your_email@example.com<br>
-    <strong>🐦 X:</strong> [@your_x_handle](https://x.com/your_x_handle)<br>
+    <strong>📧 Email:</strong> kipchumba.softwaredev@gmailcom<br>
+    <strong>🐦 X:</strong> <a href="https://x.com/your_x_handle">@your_x_handle</a><br>
     <strong>📅 Date:</strong> June 21, 2025
 </p>
 
