@@ -28,4 +28,29 @@ class MyTestCase(unittest.TestCase):
         '''
         pass
 
+    def test_maybe_skipped(self):
+        ''' Skipping test by calling skipTest()
+        '''
+        if not external_resource_available():
+            self.skipTest('External resource not availablle')
+        pass
 
+
+# Demonstrate skipping of a TestCase
+@unittest.skip('This Test Case will be skipped')
+class MySkippedTestCase(unittest.TestCase):
+    ''' Skipped TestCase
+    '''
+    def test_not_run(self):
+        pass
+
+
+# Demonstating Expected failure syntax
+class ExpectedFailureTestCase(unittest.TestCase):
+    ''' Marking test methods as expected failure
+    '''
+    @unittest.expectedFailure
+    def test_fail(self):
+        ''' This wont be included as failure in the TestResult
+        '''
+        self.assertEqual(1, 0, "broken")
